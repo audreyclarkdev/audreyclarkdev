@@ -7,13 +7,13 @@
 
 <p>Outside of code, I'm working on my strength and conditioning with my gym peeps (I used to coach CrossFit 2019-2020), playing cozy games with a psychological thriller audiobook in my ears, or hanging out with my husband and our German Shepherd dawghter, Emma. 🐾</p>
 
-<p>I'm also very active in the <a href="https://www.dallassoftwaredevelopers.org/">Dallas Software Developer Group</a>, <a href="https://100devs.org/">100Devs</a>, and <a href="https://awtaustin.org/">Austin Women in Technology</a> communities.</p>
+<p>I'm also very active in the <a href="https://www.dallassoftwaredevelopers.org/" rel="noopener noreferrer">Dallas Software Developer Group</a>, <a href="https://100devs.org/" rel="noopener noreferrer">100Devs</a>, and <a href="https://awtaustin.org/">Austin Women in Technology</a> communities.</p>
 
 <p>I want what I build to make people's lives genuinely better, and I'm looking for a team with a mission to match.</p>
 
 <p>
-  <a href="https://audreyclark.dev">Portfolio</a> ·
-  <a href="https://linkedin.com/in/audrey-clark-dev">LinkedIn</a>
+  <a href="https://audreyclark.dev" rel="noopener noreferrer">Portfolio</a> ·
+  <a href="https://linkedin.com/in/audrey-clark-dev" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
 <br>
@@ -65,7 +65,7 @@
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/audreyclarkdev/dogdex" target="_blank">
+        <a href="https://github.com/audreyclarkdev/dogdex" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/REPO-blue?logo=github"/></a>
         <a href="https://dogdex.live/" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/🔗%20LIVE%20SITE-9D4EDD"/></a>
