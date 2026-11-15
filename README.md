@@ -60,14 +60,14 @@
     <td width="50%" valign="top">
       <h3 align="center">DogDex</h3>
       <br />
-      <a target="_blank" href="https://dogdex.live/">
+      <a rel="noopener noreferrer" href="https://dogdex.live/">
         <img src="https://github.com/audreyclarkdev/dogdex/raw/main/frontend/src/assets/DogDex_Home_to_Breeds.gif" width="100%" alt="DogDex dog collection page"/>
       </a>
       <br />
       <p align="center">
         <a href="https://github.com/audreyclarkdev/dogdex" target="_blank">
           <img src="https://img.shields.io/badge/REPO-blue?logo=github"/></a>
-        <a href="https://dogdex.live/" target="_blank">
+        <a href="https://dogdex.live/" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/🔗%20LIVE%20SITE-9D4EDD"/></a>
       </p>
       <p><strong>React, Vite, Node.js, Express, MongoDB, Clerk, Cloudinary</strong> - Like birdwatching, but for dogs. Browse breeds, mark the ones you've spotted, and log each sighting with a photo and notes.</p>
@@ -75,14 +75,14 @@
     <td width="50%" valign="top">
       <h3 align="center">Giphy App</h3>
       <br />
-      <a target="_blank" href="https://audrey-giphy-app.netlify.app/">
+      <a rel="noopener noreferrer" href="https://audrey-giphy-app.netlify.app/">
         <img src="https://github.com/audreyclarkdev/Giphy-App/raw/main/src/assets/trending-home-higher-quality.gif" width="100%" alt="Giphy App demo"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/audreyclarkdev/Giphy-App" target="_blank">
+        <a href="https://github.com/audreyclarkdev/Giphy-App" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/REPO-blue?logo=github"/></a>
-        <a href="https://audrey-giphy-app.netlify.app/" target="_blank">
+        <a href="https://audrey-giphy-app.netlify.app/" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/🔗%20LIVE%20SITE-9D4EDD"/></a>
       </p>
       <p><strong>React, Vite, Giphy API, CSS</strong> - Browse trending GIFs, search any topic, and load more results with pagination.</p>
@@ -92,18 +92,17 @@
     <td width="50%" valign="top">
       <h3 align="center">Dev Divas Dictionary App</h3>
       <br />
-      <!-- TODO: record a demo GIF and drop the <img> tag in here, wrapped in the <a> below -->
-      <a target="_blank" href="https://feq-dictionary.netlify.app/">
+      <a rel="noopener noreferrer" href="https://feq-dictionary.netlify.app/">
           <img src="https://github.com/audreyclarkdev/feq_dictionary_app/blob/main/start-here/assets/images/dictionary-demo.gif" width="100%" alt="Dictionary app light and dark theme toggle"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/audreyclarkdev/feq_dictionary_app" target="_blank">
+        <a href="https://github.com/audreyclarkdev/feq_dictionary_app" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/REPO-blue?logo=github"/></a>
-        <a href="https://feq-dictionary.netlify.app/" target="_blank">
+        <a href="https://feq-dictionary.netlify.app/" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/🔗%20LIVE%20SITE-9D4EDD"/></a>
       </p>
-      <p><strong>HTML, CSS, JavaScript, Free Dictionary API</strong> - Team-built dictionary app with word search plus font and light/dark theme switching. I built the light/dark mode toggle and handled deployment.</p>
+      <p><strong>HTML, CSS, JavaScript, Free Dictionary API</strong> - <a href="https://frontendqueens.com/" rel="noopener noreferrer"> Frontend Queens </a> team-built dictionary app with word search plus font and light/dark theme switching. I built the light/dark mode toggle and handled deployment.</p>
     </td>
     <td width="50%" valign="top">
       <!-- TODO: Heroes App card goes here once it's deployed -->
