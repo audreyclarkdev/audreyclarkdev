@@ -60,7 +60,7 @@
       <h3 align="center">DogDex</h3>
       <br />
       <a target="_blank" href="https://dogdex.live/">
-        <img src="https://github.com/audreyclarkdev/dogdex/raw/main/frontend/src/assets/DogDex_Dog_Collection.png" width="100%" alt="DogDex dog collection page"/>
+        <img src="https://github.com/audreyclarkdev/dogdex/raw/main/frontend/src/assets/DogDex_Home_to_Breeds.gif" width="100%" alt="DogDex dog collection page"/>
       </a>
       <br />
       <p align="center">
@@ -75,7 +75,7 @@
       <h3 align="center">Giphy App</h3>
       <br />
       <a target="_blank" href="https://audrey-giphy-app.netlify.app/">
-        <img src="https://github.com/audreyclarkdev/Giphy-App/raw/main/src/assets/giphy-search.gif" width="100%" alt="Giphy App demo"/>
+        <img src="https://github.com/audreyclarkdev/Giphy-App/raw/main/src/assets/trending-home-higher-quality.gif" width="100%" alt="Giphy App demo"/>
       </a>
       <br />
       <p align="center">
