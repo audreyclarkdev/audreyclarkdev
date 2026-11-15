@@ -91,7 +91,7 @@
       <br />
       <!-- TODO: record a demo GIF and drop the <img> tag in here, wrapped in the <a> below -->
       <a target="_blank" href="https://feq-dictionary.netlify.app/">
-          <img src="https://github.com/audreyclarkdev/feq_dictionary_app/raw/main/assets/dictionary-demo.gif" width="100%" alt="Dictionary app light and dark theme toggle"/>
+          <img src="https://github.com/audreyclarkdev/feq_dictionary_app/blob/main/start-here/assets/images/dictionary-demo.gif" width="100%" alt="Dictionary app light and dark theme toggle"/>
       </a>
       <br />
       <p align="center">
