@@ -5,7 +5,7 @@
 
 <p>Before software, I spent about seven years working alongside non-profits and humanitarian programs around the world. It taught me that people matter most, and it's why I got into development: I love solving real problems that make someone's life a little easier.</p>
 
-<p>Outside of code, I'm lifting weights (I used to coach CrossFit), playing cozy games with a psychological thriller audiobook in my ears, or hanging out with my German Shepherd, Emma.</p>
+<p>Outside of code, I'm working on my strength and conditioning with my gym peeps (I used to coach CrossFit 2019-2020), playing cozy games with a psychological thriller audiobook in my ears, or hanging out with my husband and our German Shepherd dawghter, Emma. 🐾</p>
 
 <p>I'm also very active in the <a href="https://www.dallassoftwaredevelopers.org/">Dallas Software Developer Group</a>, <a href="https://100devs.org/">100Devs</a>, and <a href="https://awtaustin.org/">Austin Women in Technology</a> communities.</p>
 
@@ -66,9 +66,9 @@
       <br />
       <p align="center">
         <a href="https://github.com/audreyclarkdev/dogdex" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
+          <img src="https://img.shields.io/badge/REPO-blue?logo=github"/></a>
         <a href="https://dogdex.live/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
+          <img src="https://img.shields.io/badge/🔗%20LIVE%20SITE-9D4EDD"/></a>
       </p>
       <p><strong>React, Vite, Node.js, Express, MongoDB, Clerk, Cloudinary</strong> - Like birdwatching, but for dogs. Browse breeds, mark the ones you've spotted, and log each sighting with a photo and notes.</p>
     </td>
@@ -81,9 +81,9 @@
       <br />
       <p align="center">
         <a href="https://github.com/audreyclarkdev/Giphy-App" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
+          <img src="https://img.shields.io/badge/REPO-blue?logo=github"/></a>
         <a href="https://audrey-giphy-app.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
+          <img src="https://img.shields.io/badge/🔗%20LIVE%20SITE-9D4EDD"/></a>
       </p>
       <p><strong>React, Vite, Giphy API, CSS</strong> - Browse trending GIFs, search any topic, and load more results with pagination.</p>
     </td>
@@ -99,9 +99,9 @@
       <br />
       <p align="center">
         <a href="https://github.com/audreyclarkdev/feq_dictionary_app" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
+          <img src="https://img.shields.io/badge/REPO-blue?logo=github"/></a>
         <a href="https://feq-dictionary.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
+          <img src="https://img.shields.io/badge/🔗%20LIVE%20SITE-9D4EDD"/></a>
       </p>
       <p><strong>HTML, CSS, JavaScript, Free Dictionary API</strong> - Team-built dictionary app with word search plus font and light/dark theme switching. I built the light/dark mode toggle and handled deployment.</p>
     </td>
